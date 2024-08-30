@@ -100,3 +100,4 @@ const { url } =  await startStandaloneServer(server, {
 })
 
 console.log("Server readi at port", 4000)
+console.log("URL:", url)
